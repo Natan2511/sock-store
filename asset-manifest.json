@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sock-store/static/css/main.a4cc3291.css",
-    "main.js": "/sock-store/static/js/main.c8260837.js",
+    "main.js": "/sock-store/static/js/main.f6b8a368.js",
     "index.html": "/sock-store/index.html",
     "main.a4cc3291.css.map": "/sock-store/static/css/main.a4cc3291.css.map",
-    "main.c8260837.js.map": "/sock-store/static/js/main.c8260837.js.map"
+    "main.f6b8a368.js.map": "/sock-store/static/js/main.f6b8a368.js.map"
   },
   "entrypoints": [
     "static/css/main.a4cc3291.css",
-    "static/js/main.c8260837.js"
+    "static/js/main.f6b8a368.js"
   ]
 }
