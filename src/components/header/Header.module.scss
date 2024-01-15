@@ -1,0 +1,39 @@
+.headerTittleWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 15px;
+
+    font-size: 10px;
+    line-height: 1.2em;
+
+    background-color: #000000;
+        .headerTittle{
+            color: #fff;
+        }
+}
+
+.headerNavbar{
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid #000000;
+    &>div{
+        background-color: #D6FF38;
+
+        padding: 23px 80px;
+        border-right: 1px solid #000000;
+        
+        font-family: roboto, sans-serif;
+        font-size: 24px;
+        font-weight: 800;
+        &>a{
+            color: #000000;
+        }
+    }
+    .headerNavbarList{
+        display: flex;
+        align-items: center;
+    }
+}
